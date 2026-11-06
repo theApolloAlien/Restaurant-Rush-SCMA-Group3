@@ -11,7 +11,7 @@ Staff time is scarce, so the real decision is always *who comes first*.
 | **Group** | SCMA · Group 3 |
 | **Members** | CCDS LEE SHENG KAI · CCDS LEONG XUAN HAO · CCDS POLOYAPOY RON JOSHUA ABES (Apollo) · CCDS VICTORIA HAUGAA |
 | **Report** | [`docs/report/Restaurant-Rush-Report.pdf`](docs/report/Restaurant-Rush-Report.pdf) |
-| **Video** | YouTube: *link added after upload* · timestamps [below](#video-timestamps) |
+| **Video** | [https://youtu.be/5CR8E7tgK18](https://youtu.be/5CR8E7tgK18) (11:15) · timestamps [below](#video-timestamps) |
 | **Diagrams** | [`docs/diagrams/`](docs/diagrams/): class diagrams for every stage and the six-part sequence diagram |
 
 ```
@@ -190,30 +190,30 @@ transcripts are in [`docs/transcripts/`](docs/transcripts/).
 
 ## Video timestamps
 
-The video (11:15) covers the seven items in brief §6.2. Everything in the terminal is the real game running.
+The [video](https://youtu.be/5CR8E7tgK18) (11:15) covers the seven items in brief §6.2. Everything in the terminal is the real game running.
 
 | # | Segment | Presenter | Start |
 |:-:|---|---|---|
-| 1 | The game launching from the submitted project | CCDS POLOYAPOY RON JOSHUA ABES (Apollo) | 00:00 |
-| 2 | Meaningful manager choices, including a decision where staff are constrained | CCDS POLOYAPOY RON JOSHUA ABES (Apollo) | 01:41 |
-| 3 | A dish going READY → SERVED → payment | CCDS LEONG XUAN HAO | 02:42 |
-| 4 | A VIP or Critic behaviour (we show both) | CCDS LEONG XUAN HAO | 03:13 |
-| 5 | A Stage 3 feature (the Host, a combo and Happy Hour) | CCDS VICTORIA HAUGAA | 03:54 |
-| 6 | One victory and one defeat | CCDS VICTORIA HAUGAA | 04:24 |
-| 7 | The stage tag comparisons and the diagrams | CCDS LEE SHENG KAI, CCDS LEONG XUAN HAO, CCDS VICTORIA HAUGAA, CCDS POLOYAPOY RON JOSHUA ABES (Apollo) | 04:57 |
+| 1 | The game launching from the submitted project | CCDS POLOYAPOY RON JOSHUA ABES (Apollo) | [00:00](https://youtu.be/5CR8E7tgK18?t=0) |
+| 2 | Meaningful manager choices, including a decision where staff are constrained | CCDS POLOYAPOY RON JOSHUA ABES (Apollo) | [01:41](https://youtu.be/5CR8E7tgK18?t=101) |
+| 3 | A dish going READY → SERVED → payment | CCDS LEONG XUAN HAO | [02:42](https://youtu.be/5CR8E7tgK18?t=162) |
+| 4 | A VIP or Critic behaviour (we show both) | CCDS LEONG XUAN HAO | [03:13](https://youtu.be/5CR8E7tgK18?t=193) |
+| 5 | A Stage 3 feature (the Host, a combo and Happy Hour) | CCDS VICTORIA HAUGAA | [03:54](https://youtu.be/5CR8E7tgK18?t=234) |
+| 6 | One victory and one defeat | CCDS VICTORIA HAUGAA | [04:24](https://youtu.be/5CR8E7tgK18?t=264) |
+| 7 | The stage tag comparisons and the diagrams | CCDS LEE SHENG KAI, CCDS LEONG XUAN HAO, CCDS VICTORIA HAUGAA, CCDS POLOYAPOY RON JOSHUA ABES (Apollo) | [04:57](https://youtu.be/5CR8E7tgK18?t=297) |
 
 Inside segment 7:
 
 | Start | Presenter | Content |
 |---|---|---|
-| 05:02 | CCDS LEE SHENG KAI | Stage tags and the rule checks |
-| 05:17 | CCDS LEE SHENG KAI | Final class diagram: encapsulation, polymorphism, composition, template method |
-| 06:08 | CCDS LEONG XUAN HAO | Stage 1 → Stage 2 comparison |
-| 07:06 | CCDS VICTORIA HAUGAA | Stage 2 → Stage 3 comparison and this README's change tables |
-| 07:36 | CCDS POLOYAPOY RON JOSHUA ABES (Apollo) | Selected use case: serve a VIP customer during Happy Hour |
-| 08:22 | CCDS LEE SHENG KAI | Sequence diagram, parts 1–6 |
+| [05:02](https://youtu.be/5CR8E7tgK18?t=302) | CCDS LEE SHENG KAI | Stage tags and the rule checks |
+| [05:17](https://youtu.be/5CR8E7tgK18?t=317) | CCDS LEE SHENG KAI | Final class diagram: encapsulation, polymorphism, composition, template method |
+| [06:08](https://youtu.be/5CR8E7tgK18?t=368) | CCDS LEONG XUAN HAO | Stage 1 → Stage 2 comparison |
+| [07:06](https://youtu.be/5CR8E7tgK18?t=426) | CCDS VICTORIA HAUGAA | Stage 2 → Stage 3 comparison and this README's change tables |
+| [07:36](https://youtu.be/5CR8E7tgK18?t=456) | CCDS POLOYAPOY RON JOSHUA ABES (Apollo) | Selected use case: serve a VIP customer during Happy Hour |
+| [08:22](https://youtu.be/5CR8E7tgK18?t=502) | CCDS LEE SHENG KAI | Sequence diagram, parts 1–6 |
 
-Contributions and key learning (all four members) start at 09:31.
+Contributions and key learning (all four members) start at [09:31](https://youtu.be/5CR8E7tgK18?t=571).
 
 ## Repository layout
 
