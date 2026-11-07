@@ -97,7 +97,7 @@ rush.model    Restaurant · Table · Customer ◁ Regular/VIP/Critic · Order ·
   queue, a table and the door.
 
 Final class diagram (Stage 3, matches the code on `main`). Click it for the full-size version, or open the
-editable [`01-class-diagram.drawio.svg`](docs/diagrams/01-class-diagram.drawio.svg):
+editable [`01-class-diagram.drawio`](docs/diagrams/01-class-diagram.drawio):
 
 [![Class diagram](docs/diagrams/01-class-diagram.png)](docs/diagrams/01-class-diagram.png)
 
@@ -112,8 +112,9 @@ Sequence diagram (a VIP order during Happy Hour, from arrival to payment and the
 [5 eating and payment](docs/diagrams/06-sequence-part-5-eating-payment.drawio.svg) ·
 [6 result check](docs/diagrams/07-sequence-part-6-result.drawio.svg).
 
-The `.drawio.svg` files open directly in [diagrams.net](https://app.diagrams.net), the draw.io desktop app or the
-VS Code draw.io extension; the Stage 1 and Stage 2 diagrams have `.drawio` sources next to their PNGs.
+The `.drawio` and `.drawio.svg` files open directly in [diagrams.net](https://app.diagrams.net), the draw.io desktop
+app or the VS Code draw.io extension. Each stage's class diagram has a `.drawio` source next to its PNG; the Stage 3
+source, `01-class-diagram.drawio`, also holds the six sequence diagram pages.
 
 ## Stages and change analysis
 
